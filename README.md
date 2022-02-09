@@ -1,5 +1,4 @@
 # House-Price-Prediction-Project-for-a-US-based-housing-company
-> Outline a brief description of your project.
 
 
 ## Problem Statement:
